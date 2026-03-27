@@ -1,51 +1,26 @@
-# Memory Card Game
+# Memory Game – Interactive Front End Project
 
-A dynamic and interactive **Memory Card Game** built with **HTML, CSS, and JavaScript**. Users can play a normal mode or a timed mode, matching cards to win. The game features animated stars, shooting stars, and confetti effects upon victory.
+## Overview
+This project is a dynamic memory card game built with **HTML, CSS, and JavaScript**. Users can play a normal game or a timed game. The game features a visually appealing layout with interactive cards, animations, and special effects like stars and confetti.  
 
----
+The game has been tested approximately **400 times**, with around 70 tests on some days. While I believe it should work on mobile devices, some bugs remain when cards flip quickly.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Example](#code-example)
-- [Testing](#testing)
-- [Responsive Design](#responsive-design)
-- [Resources and Credits](#resources-and-credits)
-- [Future Improvements](#future-improvements)
-
----
-
-## Project Overview
-
-The goal of this project was to **design, develop, and implement a dynamic frontend web application**. The game is interactive, visually engaging, and uses JavaScript for card flipping, matching logic, timer functionality, and visual effects.
-
----
+Some parts of the code are inspired by [this tutorial video](https://www.youtube.com/watch?v=xWdkt6KSirw), but I have modified and extended it with my own functionality and styling.
 
 ## Features
+- Start screen with buttons to choose normal or timed mode
+- Timed gameplay option with countdown
+- Cards flip on click and match detection
+- Confetti animation upon winning
+- Animated background with stars and shooting stars
+- Responsive layout (attempted for mobile)
+- Restart and back-to-start navigation
 
-- **Normal and Timed Game Modes**
-- **Card Matching Logic**
-- **Animated Stars and Shooting Stars**
-- **Confetti on Victory**
-- **Restart Functionality**
-- **Dynamic card deck based on user selection**
-- **Responsive grid layout for desktop and mobile**
-
----
-
-## Demo
-
-You can try the live demo here: [Memory Game Demo](https://YOUR_DEPLOYED_LINK_HERE)
-
----
+## Live Demo
+You can play the live game here:  
+[Memory Game Live](https://raw.githack.com/Night0509Star/Memory-3-/refs/heads/main/Memory.html)
 
 ## Installation
-
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/memory-card-game.git
+git clone https://github.com/Night0509Star/Memory-3-.git
